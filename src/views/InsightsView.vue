@@ -1,0 +1,1 @@
+<template><section class="panel insight"><span class="eyebrow">Implementation guidance</span><h2>Every transition plan needs a clear learner outcome, supported educators and measurable delivery evidence</h2><p>Education authorities, schools and vocational partners can align capacity, responsible technology use and accountable milestones.</p></section></template>
